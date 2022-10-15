@@ -40,6 +40,7 @@ src="https://img.shields.io/twitter/follow/nlagdhir?logo=twitter&style=for-the-b
 | Portfolio Site | Next JS | [Demo](https://nextjs-portfolio-nlagdhir.vercel.app/) | [Code](https://github.com/nlagdhir/nextjs-portfolio)
 | Meetup App | React JS, Firebase | [Demo](https://react-meetup-app-nlagdhir.vercel.app/) | [Code](https://github.com/nlagdhir/react-meetup-app)
 | Event App | React JS, Next JS, Firebase | [Demo](https://next-js-event-app-nlagdhir.vercel.app/) | [Code](https://github.com/nlagdhir/NextJs-Course/tree/main/2.working-with-file-based-routing)
+| My Blogs | React JS, Next JS, MongoDB | [Demo](https://my-blog-nextjs-phi.vercel.app/) | [Code](https://github.com/nlagdhir/NextJs-Course/tree/main/5.my-blog-project)
 
 
 ### Socials
