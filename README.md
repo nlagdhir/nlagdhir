@@ -42,6 +42,7 @@ src="https://img.shields.io/twitter/follow/nlagdhir?logo=twitter&style=for-the-b
 | Event App | React JS, Next JS, Firebase | [Demo](https://next-js-event-app-nlagdhir.vercel.app/) | [Code](https://github.com/nlagdhir/NextJs-Course/tree/main/2.working-with-file-based-routing)
 | My Blogs | React JS, Next JS, MongoDB | [Demo](https://my-blog-nextjs-phi.vercel.app/) | [Code](https://github.com/nlagdhir/NextJs-Course/tree/main/5.my-blog-project)
 | Google Clone | React JS, Next JS, Tailwindcss | [Demo](https://google-clone-nlagdhir.vercel.app/) | [Code](https://github.com/nlagdhir/google-clone)
+| Instagram Clone | React JS, Next JS, Tailwindcss | [Demo](https://insta-clone-1-nlagdhir.vercel.app/) | [Code](https://github.com/nlagdhir/insta-clone-1)
 
 
 
