@@ -43,6 +43,7 @@ src="https://img.shields.io/twitter/follow/nlagdhir?logo=twitter&style=for-the-b
 | My Blogs | React JS, Next JS, MongoDB | [Demo](https://my-blog-nextjs-phi.vercel.app/) | [Code](https://github.com/nlagdhir/NextJs-Course/tree/main/5.my-blog-project)
 | Google Clone | React JS, Next JS, Tailwindcss | [Demo](https://google-clone-nlagdhir.vercel.app/) | [Code](https://github.com/nlagdhir/google-clone)
 | Instagram Clone | React JS, Next JS, Tailwindcss | [Demo](https://insta-clone-1-nlagdhir.vercel.app/) | [Code](https://github.com/nlagdhir/insta-clone-1)
+| Exercise App | React JS, Material UI | [Demo](https://gym-exercises-nlagdhir.vercel.app/) | [Code](https://github.com/nlagdhir/gym-exercises)
 
 
 
